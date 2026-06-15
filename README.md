@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Tommy Hastings 👋
 
-<!--
-**thas547/thas547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math & Statistics student at UNC Chapel Hill with a focus on actuarial science, data science, and risk management.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 About Me
+
+- 📚 Studying Mathematics & Statistics @ UNC Chapel Hill
+- 📊 Passed SOA Exam P | Currently preparing for Exam FM
+- 🤖 Break Through Tech AI Fellow — building skills in ML/AI through real industry projects
+- 🌐 Explored actuarial work through the **Aon Discovery Program**
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📁 Projects
+
+*Coming soon — currently building out my project portfolio through Break Through Tech AI Studio!*
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommy-hastings/)
