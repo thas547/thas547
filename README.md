@@ -1,10 +1,10 @@
-# Hi, I'm Tommy Hastings 👋
+# Hi, I'm Tommy Hastings 
 
 Math & Statistics student at UNC Chapel Hill with a focus on actuarial science, data science, and risk management.
 
 ---
 
-## 🙋 About Me
+## About Me
 
 - 📚 Studying Mathematics & Statistics @ UNC Chapel Hill
 - 📊 Passed SOA Exam P | Currently preparing for Exam FM
