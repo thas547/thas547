@@ -20,10 +20,7 @@ I'm a Mathematics & Statistics student at UNC-Chapel Hill interested in applying
 - **Data & ML:** pandas, NumPy, scikit-learn, Jupyter
 - **Tools:** Git, GitHub, Excel, RStudio
 - **Areas of Interest:** Machine Learning, Data Analysis, Statistical Modeling, Risk Analytics
-### GitHub Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thas547&layout=compact)
----
 
 ## 🚀 Featured Projects
 
