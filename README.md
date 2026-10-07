@@ -1,32 +1,38 @@
-# Hi, I'm Tommy Hastings 
+# Hi, I'm Tommy Hastings 👋
 
-Math & Statistics student at UNC Chapel Hill with a focus on actuarial science, data science, and risk management.
+I'm a Mathematics & Statistics student at UNC-Chapel Hill interested in applying data science, machine learning, and quantitative methods to real-world problems in risk and actuarial consulting.
 
 ---
 
 ## About Me
 
-- 📚 Studying Mathematics & Statistics @ UNC Chapel Hill
-- 📊 Passed SOA Exam P | Currently preparing for Exam FM
-- 🤖 Break Through Tech AI Fellow — building skills in ML/AI through real industry projects
-- 🌐 Explored actuarial work through the **Aon Discovery Program**
+- 🎓 Studying Mathematics & Statistics at UNC-Chapel Hill
+- 🤖 Break Through Tech AI Fellow working on an industry-sponsored machine learning project
+- 📊 Passed SOA Exams P and FM
+- 💼 Incoming Actuarial Intern at Aon
+- 🔎 Interested in actuarial consulting, risk analytics, data science, and machine learning
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Languages:** Python, R
+- **Data & ML:** pandas, NumPy, scikit-learn, Jupyter
+- **Tools:** Git, GitHub, Excel, RStudio
+- **Areas of Interest:** Machine Learning, Data Analysis, Statistical Modeling, Risk Analytics
 
 ---
 
-## 📁 Projects
+## 🚀 Featured Projects
 
-*Coming soon — currently building out my project portfolio through Break Through Tech AI Studio!*
+### AI Contract Review
+Break Through Tech AI Studio industry project focused on applying machine learning and natural language processing to contract analysis.
+
+*More project details and results will be added as the project develops.*
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommy-hastings/)
-
-Email: tommyhastings547@gmail.com
+- **LinkedIn:** [linkedin.com/in/tommy-hastings](https://www.linkedin.com/in/tommy-hastings/)
+- **Email:** [tommyhastings547@gmail.com](mailto:tommyhastings547@gmail.com)
