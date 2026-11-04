@@ -22,7 +22,8 @@ I'm a Mathematics & Statistics student at UNC-Chapel Hill interested in applying
 - **Areas of Interest:** Machine Learning, Data Analysis, Statistical Modeling, Risk Analytics
 ### 📈 GitHub Activity
 
-![Tommy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thas547&show_icons=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thas547&show_icons=true)
+
 
 ## 🚀 Featured Projects
 
