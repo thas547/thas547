@@ -16,8 +16,6 @@ I'm a Mathematics & Statistics student at UNC-Chapel Hill interested in applying
 
 ## 🛠️ Technical Skills
 
-### 🛠️ Technical Skills
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-0F766E?style=for-the-badge)
