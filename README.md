@@ -8,7 +8,7 @@ I'm a Mathematics & Statistics student at UNC-Chapel Hill interested in applying
 
 - 🎓 Studying Mathematics & Statistics at UNC-Chapel Hill
 - 🤖 Break Through Tech AI Fellow working on an industry-sponsored machine learning project
-- 📊 Passed SOA Exams P and FM
+- 📊 Passed SOA Exams P, FM, and FAM
 - 💼 Incoming Actuarial Intern at Aon
 - 🔎 Interested in actuarial consulting, risk analytics, data science, and machine learning
 
